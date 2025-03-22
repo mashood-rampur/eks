@@ -10,4 +10,4 @@ Install using Fargate
 Delete the cluster
 -------------------
 
-```eksctl delete cluster --name my-eks-cluster --region ap-south-1
+eksctl delete cluster --name my-eks-cluster --region ap-south-1
